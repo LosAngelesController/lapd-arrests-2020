@@ -8,7 +8,6 @@ const navigationPayroll = [
   {
     name: "2020",
     url: "/",
-    newtab: true
   },
   {
     name: "2021",
@@ -23,7 +22,7 @@ const navigationPayroll = [
   {
     name: "Los Angeles Controller",
     url: "https://controller.lacity.gov",
-    newtab: true,
+    newtab: true
   },
 ];
 
