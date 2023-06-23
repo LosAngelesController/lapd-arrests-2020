@@ -2,7 +2,7 @@ import ActiveLink from "./ActiveLink";
 const navigationPayroll = [
   {
     name: "2019",
-    url: "https://lapd-arrests-2019.vercel.app/",
+    url: "https://2019arrests.lacontroller.io/",
     newtab: true,
   },
   {
@@ -11,12 +11,12 @@ const navigationPayroll = [
   },
   {
     name: "2021",
-    url: "https://lapd-arrests-2021.vercel.app/",
+    url: "https://2021arrests.lacontroller.io/",
     newtab: true,
   },
   {
     name: "2022",
-    url: "https://lapd-arrests-2022.vercel.app/",
+    url: "https://2022arrests.lacontroller.io/",
     newtab: true,
   },
   {
